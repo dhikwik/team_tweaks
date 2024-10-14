@@ -1,0 +1,28 @@
+.FAQ{
+    margin:10% 0 0 0;
+}
+.FAQ-sub-text{
+    color:#00ae85;
+}
+.FAQ-section-1{
+    padding: 5% 0% 0% 5%;
+    width:45%;
+}
+.accordion-item{
+    margin:3% 0 0 0;
+}
+.accordion-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.accordion-button::after {
+    display: none;  
+}
+.accordion-button.collapsed .accordian-icon {
+    transform: rotate(0deg);
+}
+
+.accordion-button:not(.collapsed) .accordian-icon {
+    transform: rotate(180deg); 
+}

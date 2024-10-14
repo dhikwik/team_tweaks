@@ -1,0 +1,30 @@
+.ninth-page{
+    border-top: 1px solid;
+    color:antiquewhite;
+    height:150px;
+}
+
+.ninth-section{
+    display:flex;
+    background-color: #1A202C;
+    margin:10% 10% 0 10%;
+    position:relative;
+    border-radius:14px;
+    
+}
+.man-img{
+    position:absolute;
+    margin-top:-155px;
+}
+.ninth-button{
+    background-color: yellowgreen;
+    border-radius: 26px;
+    border: none;
+    padding:  11px;
+    margin: 35px 4px;
+}
+
+.ninth-text-section{
+    padding:15% 5% 5% 42%;
+}
+ 

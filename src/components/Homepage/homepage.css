@@ -1,0 +1,61 @@
+ 
+
+.main-section{
+  display: flex;
+ }
+ 
+.left-main-section{
+  flex-basis:60%;
+  padding: 5% 5%;
+  padding-top: 12%;
+}
+.right-main-section{
+  padding-top:5%;
+  flex-basis:40%;
+ } 
+.lady-looking-phone-img{
+  max-width:100%;
+  height:auto;
+}
+.main-section-logo{
+  display:flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 9% 2% 5% 0%;
+ }
+
+.main-section-text1{
+  margin-left: 0%;
+}
+.sub-text{
+  color:#00ae85
+}
+.navbar{
+  height: 80px;
+  text-decoration: none;
+}
+.navbar-nav{
+  padding: 0 5% 0 0;
+}
+.navbar-brand{
+  padding: 0 0 0 2%;
+}
+.nav-item
+span{
+  padding: 0 5% 0 0;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 5%;  
+}
+
+.navbar-nav
+button{
+  background-color: #6FC047;
+     border-radius: 5px;
+    border: none;
+    /* padding:  11px;
+    margin: 35px 4px; */
+     
+}
+ 

@@ -1,0 +1,33 @@
+.footer{
+    margin: 10 0 0 0%;
+    background-color:rgb(4, 4, 58);
+}
+.footer-info{
+    flex-direction: row;
+ }
+.footer-section{
+    margin:5% 0 0 8%;
+}
+.footer
+p{
+    color:white
+}
+.footer
+h5{
+    color:yellowgreen
+}
+.footer-icons{
+    justify-content: space-around;
+}
+.footer-hr{
+    color:white;
+}
+.footer-copyrights 
+span{
+    color:yellowgreen
+}
+.footer-copyrights 
+h6{
+    color:grey;
+    padding:0% 0 2% 0;
+}

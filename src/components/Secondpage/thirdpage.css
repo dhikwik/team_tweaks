@@ -1,0 +1,14 @@
+.third-page{
+    display:flex;
+}
+.random-diagram{
+    width:700px;
+     height: auto;  
+}
+.right-section{
+    padding: 10% 0 0 0;
+}
+
+.sub-text{
+    color:#00ae85
+}

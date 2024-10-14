@@ -1,0 +1,19 @@
+.fourth-page{
+    padding:9% 0 0 0;
+}
+.fourth-page-text{
+    text-align:center;
+}
+.card-list{
+    display:flex;
+    flex-wrap:wrap
+     
+}
+.card{
+    width:27%;
+    margin: 3% 0% 0% 5%;
+    padding:2% 0 1% 1%;
+ }
+.card-img-top{
+    width:40px;
+}

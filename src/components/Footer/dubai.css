@@ -1,0 +1,20 @@
+.dubai-section{
+    margin:10% 0 0 0;
+}
+.dubai-text-section{
+    margin:0 0 0 10%;
+    
+}
+.dubai-text-section h6{
+    color:rgb(244, 115, 51)
+}
+.dubai-text-section h5{
+    color:rgb(16, 16, 55);
+ }
+.dubai-image{
+    overflow:hidden;
+    max-width: 100%;
+}
+.dubai-image-section{
+    padding:0 0 0 25%;
+}

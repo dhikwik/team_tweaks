@@ -1,0 +1,43 @@
+.seventh-page{
+    background: linear-gradient(135deg, #009B57 0%, #00C2B7 100%);
+    margin-top:5%;
+    color:white
+}
+.seventh-page-heading-section{
+    display:flex;
+    color:white
+}
+
+.seventh-page-heading1{
+    padding:4% 10% 3% 3%;
+    font-weight: bold;
+}
+
+.seventh-page-heading2{
+    padding:4% 7% 3% 12%;
+}
+
+.seventh-content-section{
+    display: flex;
+  }
+
+ .seventh-section{
+    flex-direction: column;
+    margin:1% 2% 2% 5%;
+ }
+ .seventh-page-subheading{
+    display:flex;
+ }
+
+ .seventh-page-feature{
+    margin-left:5%;
+ }
+.seventh-page-subheading-text{
+    margin:0 0 0 3%;
+}
+.seventh-content{
+    margin-top:17%;
+}
+.seventh-content p{
+    margin-top:4%;
+}

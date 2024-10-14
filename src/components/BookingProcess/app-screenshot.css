@@ -1,0 +1,36 @@
+
+.app-screenshot{
+    background: linear-gradient(135deg, #009B57 0%, #00C2B7 100%);
+}
+.app-screenshot-section-1{
+    padding:10% 2% 2% 10%;
+}
+
+.app-screenshot-section-2{
+    padding:10% 0% 2% 5%;
+}
+.app-screenshot-section-3{
+    padding:14% 1% 1% 1%;
+}
+.app-screenshot-section-4{
+    padding:17% 2% 2% 1%;
+    overflow: hidden;
+}
+.app-screenshot-header{
+    color:white;
+}
+.app-screenshot-button1{
+    background-color: white;
+    border: none;
+    padding:  3% 8% 3% 8%;
+    border-radius: 3px;
+    margin: 35px 4px;
+}
+.app-screenshot-button2{
+    background-color: transparent;
+    padding:  3% 8% 3% 8%;
+    border-radius: 3px;
+    margin: 35px 4px;
+    border: 2px solid white;
+    color: white;
+}

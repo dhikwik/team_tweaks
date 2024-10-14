@@ -1,0 +1,10 @@
+.second-page{
+    display:flex;
+
+}
+.left-section{
+    padding:5%;
+}
+.right-section{
+    padding:20% 0 5% 0;
+}
